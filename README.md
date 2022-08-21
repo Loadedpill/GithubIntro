@@ -1,2 +1,2 @@
 # GithubIntro
-Shopping List
+Basic Introduction of Teaching GitHub
